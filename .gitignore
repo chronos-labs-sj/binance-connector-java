@@ -7,3 +7,6 @@ src/.DS_Store
 .gitignore
 *.log
 logs/
+
+# Src files
+src/test/java/examples/PrivateConfig.java
